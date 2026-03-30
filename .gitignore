@@ -1,1 +1,6 @@
+# For Pycharm
 .idea/
+
+#For Python
+__pycache__/
+*$py.class
