@@ -6,7 +6,7 @@
 - This repository contains my structured preparation 
     for technical interviews.
 
---- added by me 
+--- added by me  
 
 # 📚 Topics Covered
 
