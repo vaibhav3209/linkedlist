@@ -10,7 +10,7 @@
 
 # 📚 Topics Covered
 
-- 🐍 [Python](./Python_basics)
+- 🐍 [Python](Python)
 - 📦 Data Structures
     - [Linked Lists](./LinkedList)
 - 🗄️ [SQL](./Sql)
@@ -22,10 +22,10 @@
 
 ```bash
 interview-prep/
-├── [python/](./Python_basics)
-├── [Linked Lists](./LinkedList)
-├── [SQL](./Sql)
-└── [OOPs](./oops_byme)
+├── python/
+├── LinkedLists/
+├── sql/
+└── OOP/
 ```
 
 ---
@@ -53,6 +53,8 @@ Week 2:
 * [ ] Trees
 * [ ] Graphs
 
+⏳ Upcoming
+- change the name of readme in linkedlist
 ---
 
 ## 🎯 Goal
@@ -62,3 +64,20 @@ Week 2:
 - Different ways of doing the same problem.
 
 ---
+
+
+## HR questions!!!
+
+> Question 1.  What did you learn after writing/Documenting 
+> every step of your study
+
+
+ - We can't be right from the start about making every Documentation 
+or our learning journey perfect.
+
+
+ - But after Completing one Topic in a mess, then documenting it later.....
+It Creates a Method for the Second Topic of how it can be studied Effectively.
+
+
+> Question 2: Tell me something NOT in your resume
